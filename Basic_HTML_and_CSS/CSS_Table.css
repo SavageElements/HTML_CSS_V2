@@ -1,0 +1,30 @@
+h2 {
+    background: purple;
+    color:azure;
+    text-decoration: underline;
+    text-align: center;
+    font-style: italic
+    
+}
+
+th {
+    background: rebeccapurple;
+    color:azure;
+   
+    text-align: left;
+    font-style: bold
+    
+}
+
+
+td:hover {
+    background: MediumVioletRed;
+    color:white;
+   
+    text-align: Center;
+    
+}
+
+table {
+    border: 4px solid silver;
+}
