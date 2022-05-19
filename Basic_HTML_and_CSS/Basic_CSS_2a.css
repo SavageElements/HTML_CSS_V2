@@ -4,3 +4,11 @@ p {
     font-weight: 500;
     text-align: center
 }
+
+h2 {
+    color: aqua;
+    background: gray;
+    font-size: 100px;
+    text-align: center;
+    text-shadow: 6px 1px darkgray;
+}
