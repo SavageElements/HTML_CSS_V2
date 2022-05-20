@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    color: black;
+    background: crimson;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    background: mediumvioletred;
+    text-shadow: 4px 2px darkgray;
+}
+
